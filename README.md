@@ -1,5 +1,17 @@
 # ESPNet: Polyp Segmentation
 
+### Architecture
+![ESPNet Architecture](figs/architecture.png)
+
+## 📊 Results
+
+### Seen Datasets
+![Seen Dataset Results](figs/results_seen.png)
+
+### Unseen Datasets
+![Unseen Dataset Results](figs/results_unseen.png)
+
+
 ## 📄 Citation
 
 If you use this code or find our work helpful, please cite our paper:
