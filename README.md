@@ -3,7 +3,7 @@
 ### Architecture
 ![ESPNet Architecture](figs/architecture.png)
 
-## 📊 Results
+## Results
 
 ### Seen Datasets
 ![Seen Dataset Results](figs/results_seen.png)
